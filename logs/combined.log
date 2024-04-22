@@ -1,0 +1,14 @@
+{"level":"info","message":"Microservice running at http://localhost:4000","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation has been requested: 7 * 13","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation has been requested: 7 * 1333","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation has been requested: 7 * g","service":"calculator-microservice"}
+{"level":"error","message":"An error has been encountered: Num2 Must be a Number","service":"calculator-microservice"}
+{"level":"info","message":"New division operation has been requested: 20 / 0","service":"calculator-microservice"}
+{"level":"error","message":"An error has benn encountered: You cannot divide a number by Zero","service":"calculator-microservice"}
+{"level":"info","message":"Microservice running at http://localhost:4000","service":"calculator-microservice"}
+{"level":"info","message":"New division operation has been requested: 20 / 0","service":"calculator-microservice"}
+{"level":"error","message":"An error has been encountered: You cannot divide a number by Zero","service":"calculator-microservice"}
+{"level":"info","message":"New division operation has been requested: 20 / 5","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation has been requested: 20 + 5","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation has been requested: 20 - 5","service":"calculator-microservice"}
+{"level":"info","message":"Microservice running at http://localhost:4000","service":"calculator-microservice"}

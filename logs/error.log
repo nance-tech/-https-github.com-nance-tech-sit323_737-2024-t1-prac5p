@@ -1,0 +1,5 @@
+{"level":"error","message":"An error has benn encountered: You cannot divide a number by Zero","service":"calculator-microservice"}
+{"level":"error","message":"An error has benn encountered: Num2 Must be a Number","service":"calculator-microservice"}
+{"level":"error","message":"An error has been encountered: Num2 Must be a Number","service":"calculator-microservice"}
+{"level":"error","message":"An error has benn encountered: You cannot divide a number by Zero","service":"calculator-microservice"}
+{"level":"error","message":"An error has been encountered: You cannot divide a number by Zero","service":"calculator-microservice"}
