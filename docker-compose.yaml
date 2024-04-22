@@ -2,6 +2,7 @@ version: '3.8'
 services:
   calculator:
     build: . 
+    image: nancetech/compose-calculator-microservice
     ports:
       - "4000:4000"
     volumes:
