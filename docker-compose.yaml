@@ -3,7 +3,7 @@ services:
   calculator:
     build: . 
     ports:
-      -"4000:4000"
+      - "4000:4000"
     volumes:
       - ./logs:/usr/src/logs
     environment:
