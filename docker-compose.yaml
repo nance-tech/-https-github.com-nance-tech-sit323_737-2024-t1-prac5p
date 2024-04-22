@@ -10,7 +10,7 @@ services:
     environment:
       - NODE_ENV=production
     healthcheck:
-      test: ["CMD","curl", "http://localhost:4000"]
+      test: curl http://localhost:4000 || exit 1
       interval: 10s
       timeout: 30s
       retries: 3

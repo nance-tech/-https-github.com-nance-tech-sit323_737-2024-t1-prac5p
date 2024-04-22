@@ -10,6 +10,8 @@ COPY *.js ./
 
 EXPOSE 4000
 
+RUN apk --update --no-cache add curl
+
 CMD [ "npm","start" ]
 
 
