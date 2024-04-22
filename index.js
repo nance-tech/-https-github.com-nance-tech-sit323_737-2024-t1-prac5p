@@ -2,6 +2,7 @@ const app = require("express")();
 const logger = require("./logger");
 
 app.get("", (_, res) => {
+  logger.info("health checking endpoint")
   res.status(200).json({ message: "Calculator Microservice Running" });
 });
 
